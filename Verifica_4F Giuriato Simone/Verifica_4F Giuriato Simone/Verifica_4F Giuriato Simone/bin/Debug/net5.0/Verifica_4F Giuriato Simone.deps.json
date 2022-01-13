@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Verifica_4F Giuriato Simone/1.0.0": {
+        "runtime": {
+          "Verifica_4F Giuriato Simone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verifica_4F Giuriato Simone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

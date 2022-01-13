@@ -1,0 +1,16 @@
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\bin\Debug\net5.0\Verifica_4F Giuriato Simone.exe
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\bin\Debug\net5.0\Verifica_4F Giuriato Simone.deps.json
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\bin\Debug\net5.0\Verifica_4F Giuriato Simone.runtimeconfig.json
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\bin\Debug\net5.0\Verifica_4F Giuriato Simone.runtimeconfig.dev.json
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\bin\Debug\net5.0\Verifica_4F Giuriato Simone.dll
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\bin\Debug\net5.0\ref\Verifica_4F Giuriato Simone.dll
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\bin\Debug\net5.0\Verifica_4F Giuriato Simone.pdb
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\obj\Debug\net5.0\Verifica_4F Giuriato Simone.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\obj\Debug\net5.0\Verifica_4F Giuriato Simone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\obj\Debug\net5.0\Verifica_4F Giuriato Simone.AssemblyInfoInputs.cache
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\obj\Debug\net5.0\Verifica_4F Giuriato Simone.AssemblyInfo.cs
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\obj\Debug\net5.0\Verifica_4F Giuriato Simone.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\obj\Debug\net5.0\Verifica_4F Giuriato Simone.dll
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\obj\Debug\net5.0\ref\Verifica_4F Giuriato Simone.dll
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\obj\Debug\net5.0\Verifica_4F Giuriato Simone.pdb
+C:\Users\Studente\Desktop\Verifica_4F Giuriato Simone\Verifica_4F Giuriato Simone\obj\Debug\net5.0\Verifica_4F Giuriato Simone.genruntimeconfig.cache
